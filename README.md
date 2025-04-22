@@ -37,8 +37,31 @@ Used a Random Forest Classifier.
 
 Measured accuracy, precision, recall, and F1 score.
 
-Plotted a confusion matrix heatmap for visualization.
 
-Prediction Function:
+**Results**
+Accuracy: ~87%
 
-Created a function to predict health risk based on user inputs.
+Precision: ~88%
+
+Recall: ~87%
+
+F1 Score: ~87%
+
+
+**Plotted a confusion matrix heatmap for visualization.** 
+
+
+![Screenshot 2025-04-22 104829](https://github.com/user-attachments/assets/94f7b58c-468e-420a-be1f-3cf46d406ddd)
+
+
+
+
+
+**Prediction Function:**
+
+
+
+![Screenshot 2025-04-22 104813](https://github.com/user-attachments/assets/8404544f-4307-425e-a4d8-5c7750b54323)
+
+
+
